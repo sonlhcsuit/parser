@@ -1,3 +1,6 @@
 [submodule "berkeleyparser"]
 	path = berkeleyparser
 	url = https://github.com/slavpetrov/berkeleyparser.git
+[submodule "evalb"]
+	path = evalb
+	url = https://github.com/Flupp/evalb.git

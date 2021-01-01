@@ -1,0 +1,1279 @@
+<s>
+(SPL-HLN 
+     (VP-PRN (Vv-H Đổi)
+          (NP (Nn-H lòng)
+               (NP (Nn-H hoạn_thư))))
+     (PU :)
+     (PP (Cs-H Từ)
+          (NP 
+               (Nn_swsp (Nc-H cuộc) (Nn điện))
+               (NP (R không) (Nn-H lời) (Vv thoại))))
+     (PU .))
+</s>
+<s>
+(S 
+     (NP-TMP (Nn-H Lần) (An đầu_tiên))
+     (NP-SBJ (Nn-H công_ty) (Nn thám_tử))
+     (VP (Vv-H được)
+          (VP-CMP (Vv-H tiếp)
+               (NP-CMP (Num một) (Nn-H khách_hàng)
+                    (VP (Ve-H có)
+                         (NP-CMP (Nn-H thái_độ)
+                              (ADJP (Aa-H vui_vẻ) (PU ,) (Aa-H nhẹ_nhàng))
+                              (PP (Cs-H như)
+                                   (NP (Nn-H chị) (Nr Thư))))))))
+     (PU .))
+</s>
+<s>
+(S (Cp Bởi)
+     (NP-SBJ (Nn-H chuyện)
+          (PP (Cs-H của)
+               (NP (Nr-H Thư))))
+     (UCP-PRD 
+          (ADJP 
+               (RP (R cũng) (R-H rất))
+               (Aa-H nhẹ_nhàng))
+          (Cp và)
+          (VP (R chẳng) (Vv-H nên)
+               (NP-CMP (Nn-H chuyện))
+               (NP (Nq-H tí) (Pd nào))))
+     (PU .))
+</s>
+<s>
+(SPL-HLN 
+     (NP (Nn-H Phía) (Nn sau)
+          (NP (Nn-H chuẩn_mực)))
+     (PU .))
+</s>
+<s>
+(S 
+     (NP-SBJ (Pd-H Đó))
+     (VP (Vc-H là)
+          (S-CMP 
+               (VP-TMP (Vv-H cách)
+                    (NP (Pd-H đây))
+                    (NP-TMP (Num ba) (Nu-H hôm) (PU ,)
+                         (NP-PRN 
+                              (QP (R khoảng) (Num-H 8))
+                              (Nt-H g)
+                              (NP (Num-H 30))
+                              (NP (Nt-H tối)))))
+               (PU ,)
+               (S 
+                    (NP-SBJ (Num hai) (Nn-H vợ_chồng)
+                         (NP (Nr-H Thư)))
+                    (VP 
+                         (VP (R đang)
+                              (VP (Vv-H đọc)
+                                   (NP-DOB (Nn-H sách)))
+                              (Cp và)
+                              (VP (Vv-H xem)
+                                   (NP-DOB (Nn-H tivi))))))
+               (Cp thì)
+               (S 
+                    (NP-SBJ (Nn-H chuông) (Nn điện_thoại))
+                    (VP (Vv-H reo)))))
+     (PU .))
+</s>
+<s>
+(S (Cp Vì)
+     (S-PRP 
+          (NP-SBJ (NONE *-1))
+          (VP (Vv-H ngồi)
+               (ADJP (Aa-H gần))))
+     (Cp nên)
+     (S 
+          (NP-SBJ-1 (Nr-H Thư))
+          (VP (Vv-H cầm)
+               (NP-DOB (Nn-H máy))))
+     (PU .))
+</s>
+<s>
+(S (Cp Nhưng)
+     (NP-TMP (Nt-H khi)
+          (SBAR (Cs *0*)
+               (S 
+                    (NP-SBJ (Pp-H chị))
+                    (VP (Vv-H thưa)))))
+     (Cp thì)
+     (NP-SBJ (Nn-H đầu) (Nn dây)
+          (NP (Nn-H bên) (Pd kia)))
+     (UCP-PRD 
+          (VP (Ve-H có)
+               (NP-CMP (Nn-H tiếng) (PU ") (E dạ) (PU ")
+                    (VP (Vv-H đứt_quãng))))
+          (Cp rồi)
+          (ADJP (Aa-H im_lặng)
+               (VP (R không) (Vv-H trả_lời))))
+     (PU .))
+</s>
+<s>
+(S 
+     (NP-SBJ (Nn-H Giọng))
+     (ADJP-PRD (Aa-H khó)
+          (VP (Vv-H đoán)
+               (UCP-CMP 
+                    (NP (Nn-H nam) (Cp hay) (Nn-H nữ))
+                    (PU ,)
+                    (ADJP (Aa-H trẻ) (Cp hay) (Aa-H già)))))
+     (PU .))
+</s>
+<s>
+(S (R Có_lẽ)
+     (NP-SBJ (Pp-H họ))
+     (VP (R không) (Vv-H nhầm)
+          (NP (Nn-H máy))
+          (SBAR-PRP (Cs vì)
+               (S 
+                    (PP-TMP (Cs-H sau)
+                         (NP (Nq mấy) (Nn-H lần)))
+                    (S 
+                         (NP-SBJ (Nr-H Thư))
+                         (VP (Vv-H hỏi)))
+                    (Cp thì)
+                    (S 
+                         (NP-SBJ (Nn-H người) (Pd đó))
+                         (VP (R mới) (Vv-H dập)
+                              (NP-DOB (Nn-H máy)))))))
+     (PU .))
+</s>
+<s>
+(SPL 
+     (NP (R Chỉ) (Pp-H thế) (M thôi))
+     (PU .))
+</s>
+<s>
+(S 
+     (NP-SBJ (Nr-H Thư))
+     (VP (Vv-H muốn)
+          (S-CMP 
+               (NP-SBJ (Nq các) (Nn-H thám_tử))
+               (VP (Vv-H theo_dõi)
+                    (VP-PRP (Vv-H xem)
+                         (SBAR (Cs *0*)
+                              (S 
+                                   (NP-SBJ (Nn-H anh) (Nr Nhu) (PU ,)
+                                        (NP-PRN (Nn-H chồng)
+                                             (NP (Pp-H chị)))
+                                        (PU ,))
+                                   (VP (Ve-H có)
+                                        (NP-CMP 
+                                             (NP (Nn-H bồ_bịch))
+                                             (Cp hay)
+                                             (NP (Nn-H quan_hệ)
+                                                  (ADJP (Aa-H bí_ẩn))
+                                                  (Pd nào)))
+                                        (R không))))))))
+     (PU .))
+</s>
+<s>
+(S 
+     (NP-SBJ (Nr-H Thư))
+     (VP (Vv-H đoán)
+          (PP-CMP (Cs-H là)
+               (VP (R không) (Vv *H*) (PU ,)
+                    (SBAR-PRP (Cs bởi)
+                         (S 
+                              (NP-TMP (Num 20) (Nu-H năm)
+                                   (PP 
+                                        (PP (Cs-H từ)
+                                             (NP (Nt-H khi)
+                                                  (SBAR (Cs *0*)
+                                                       (S 
+                                                            (NP-SBJ (NONE *E*))
+                                                            (VP (Vv-H yêu)
+                                                                 (NP (Nn-H nhau)))))))
+                                        (PP (Cs-H đến)
+                                             (NP (Nt-H khi)
+                                                  (SBAR (Cs *0*)
+                                                       (S 
+                                                            (NP-SBJ (NONE *E*))
+                                                            (VP (Vv-H thành)
+                                                                 (NP-CMP (Nn-H vợ_chồng)))))))))
+                              (PU ,)
+                              (NP-SBJ (Nr-H Nhu))
+                              (VP 
+                                   (NP (R chưa) (Pp bao_giờ))
+                                   (Ve-H có)
+                                   (NP-CMP 
+                                        (NP 
+                                             (NP (Nn-H tình_ý))
+                                             (NP (R thậm_chí) (Nn-H thái_độ) (Vv cợt_nhả)
+                                                  (PP (Cs-H với)
+                                                       (NP 
+                                                            (Nn_swsp (Nc-H người) (Nn đàn_bà))
+                                                            (Pd nào))))))))))))
+     (PU .))
+</s>
+<s>
+(S 
+     (NP-SBJ (Nr-H Nhu))
+     (VP (Vc-H là)
+          (NP-CMP (Num một)
+               (Nn_swsp (Ncs-H nhà) (Nn khoa_học))
+               (VP 
+                    (VP (Ve-H có)
+                         (NP-CMP (Nn-H chí)))
+                    (PU ,)
+                    (VP (Ve-H có)
+                         (NP-CMP (Nn-H tài))))
+               (PU ,)
+               (ADJP (Aa-H nổi_tiếng)
+                    (ADJP (Aa-H chung_thuỷ) (PU ,) (Aa-H chỉn_chu) (PU ,) (Aa-H nghiêm_túc) (Cp và) (Aa-H mẫn_cán))
+                    (PP (Cs-H trong)
+                         (NP (Nn-H gia_đình) (PU ,) (Nn-H cơ_quan) (Cp và) (Nun-H khu_phố))))))
+     (PU .))
+</s>
+<s>
+(S 
+     (NP-SBJ (Nn-H Vợ_chồng)
+          (NP (Pp-H chị)))
+     (NP-ADV 
+          (RP (R cũng) (R-H chưa) (R từng))
+          (Num một)
+          (Nn-H lần))
+     (VP (ID-H mặt_nặng_mày_nhẹ)
+          (PP (Cs-H với)
+               (NP (Nn-H nhau))))
+     (PU .))
+</s>
+<s>
+(S 
+     (NP-TPC-1 (Nn-H Hạnh_phúc) (Pd ấy))
+     (NP-SBJ (Nr-H Thư))
+     (ADJP-PRD (Aa-H xứng_đáng)
+          (VP (Vv-H được)
+               (VP-CMP (Vv-H hưởng)
+                    (NP-DOB (NONE *T*-1))
+                    (SBAR-PRP (Cs vì)
+                         (S 
+                              (NP-SBJ (Pp-H chị))
+                              (VP (Vc-H là)
+                                   (NP-CMP (Num một) (Nn-H cán_bộ) (Nn nhà_nước) (PU ,)
+                                        (VP-PRN (Ve-H có)
+                                             (NP-CMP (Nn-H trình_độ))))))))))
+     (PU .))
+</s>
+<s>
+(S 
+     (NP-ADV (Nn-H Gái) (Nr Hà_Nội))
+     (Cp nhưng)
+     (NP-TPC-1 (Nn-H chữ) (ID công_dung_ngôn_hạnh))
+     (NP-SBJ 
+          (ADJP (Aa-H ít))
+          (Nn-H người))
+     (VP (Vv-H bì)
+          (ADJP (Aa-H kịp)
+               (NP (NONE *T*-1))))
+     (PU .))
+</s>
+<s>
+(S (R Dường_như)
+     (NP-SBJ (Pp-H chị))
+     (VP (Vv-H đến)
+          (NP-CMP (Nn-H công_ty) (Nn thám_tử))
+          (PP-PRP (M là) (Cs-H để)
+               (VP (Vv-H tham_quan))))
+     (PU .))
+</s>
+<s>
+(S 
+     (NP-SBJ (Nn-H Thám_tử) (Nr Toàn))
+     (VP (Vv-H được)
+          (VP-CMP (Vv-H giao)
+               (NP-DOB 
+                    (NP (Nn-H ảnh)
+                         (NP (NONE *-1)))
+                    (PU ,)
+                    (NP (Nn-H địa_chỉ)
+                         (NP (Nn-H nhà) (PU ,) (Nn-H cơ_quan)
+                              (NP-1 (Nn-H anh) (Nr Nhu)))))
+               (PP-PRP (Cs-H để)
+                    (VP (Vv-H theo_dõi)))))
+     (PU .))
+</s>
+<s>
+(S 
+     (NP-SBJ (Nr-H Toàn))
+     (ADJP-PRD (R thật) (Aa-H nhàn)
+          (SBAR-PRP (Cs vì)
+               (S 
+                    (NP-SBJ (Nr-H Nhu))
+                    (VP 
+                         (VP (R cứ) (Vv-H ăn)
+                              (NP (Nt-H sáng))
+                              (PP (Cs-H ở)
+                                   (NP (Nn-H nhà)))
+                              (PP (Cs-H với)
+                                   (NP (Nn-H vợ)))
+                              (VP (VA-H xong)))
+                         (Cp mới)
+                         (VP (Vv-H đến)
+                              (NP-CMP (Nn-H cơ_quan)))))))
+     (PU .))
+</s>
+<s>
+(S 
+     (S 
+          (VP-TMP (Ve-H Hết)
+               (NP (Num bốn) (Nu-H tiếng)
+                    (NP (Nt-H buổi) (Nt sáng))))
+          (Cp thì)
+          (NP-SBJ (NONE *E*))
+          (VP 
+               (VP (Vv-H gọi)
+                    (NP-CMP (Nn-H cơm) (Nn hộp)))
+               (PU ,)
+               (VP (Vv-H uống)
+                    (NP-BOB (Nn-H nước) (Nn văn_phòng)))))
+     (Cp và)
+     (S 
+          (NP-SBJ (NONE *E*))
+          (VP 
+               (VP (Vv-H làm)
+                    (PP-TMP (Cs-H đến)
+                         (NP (Num 6) (Nt-H g)
+                              (NP (Nt-H chiều)))))
+               (Cp thì)
+               (VP (Vv-H đi)
+                    (ADJP (Aa-H thẳng)
+                         (NP (Nn-H một_mạch)
+                              (VP (Vv-H về)
+                                   (NP (Nn-H nhà))))))))
+     (PU .))
+</s>
+<s>
+(S 
+     (NP-TMP (Num Tám) (Nu-H ngày) (Aa liền)
+          (PP (Cs-H như)
+               (NP (Pp-H vậy))))
+     (PU ,)
+     (S 
+          (NP-SBJ (Nn-H hợp_đồng)
+               (PP (Cs-H của)
+                    (NP (Nr-H Thư))))
+          (VP (Vv-H tưởng)
+               (PP (Cs-H như)
+                    (VP (Vv-H chấm_dứt)))))
+     (Cp thì)
+     (S 
+          (NP-SBJ (Nt-H buổi) (Nt chiều)
+               (ADJP (Aa-H định_mệnh)))
+          (VP (Vv-H ập)
+               (VP (Vv-H đến))))
+     (PU .))
+</s>
+<s>
+(S 
+     (NP-ADV (Nn-H Ban_đầu))
+     (Cp là)
+     (NP-SBJ (Num một) (Nn-H đoàn) (Nn khách)
+          (PP (Cs-H của)
+               (NP (Nn-H cơ_quan)
+                    (NP (Nr-H Nhu)))))
+     (VP (Vv-H đến))
+     (PU .))
+</s>
+<s>
+(S 
+     (NP-SBJ (Aa-H Nhu))
+     (VP (Vv-H đi)
+          (ADJP (Aa-H cùng)
+               (NP (Nn-H đoàn)
+                    (VP (Vv-H tiếp)
+                         (NP (Nn-H khách))))))
+     (PU .))
+</s>
+<s>
+(S 
+     (NP-TMP (Nq Nửa) (Nn-H bữa))
+     (PU ,)
+     (NP-SBJ (Nr-H Nhu))
+     (VP (Vv-H xin_phép)
+          (VP (Vv-H về)
+               (NP-TMP (Nn-H trước))))
+     (PU .))
+</s>
+<s>
+(S 
+     (S 
+          (NP-SBJ (Nr-H Toàn))
+          (VP 
+               (VP (Vv-H theo)
+                    (NP-CMP (Nr-H Nhu))
+                    (VP (Vv-H đến)
+                         (NP (Nn-H ngã) (Num ba))))
+               (Cp và)
+               (VP (Vv-H định)
+                    (VP-CMP (Vv-H bỏ_về)))))
+     (Cp thì)
+     (S 
+          (NP-SBJ (Pp-H anh))
+          (VP (Vv-H giật_mình)
+               (SBAR (Cs *0*) (PU :)
+                    (S 
+                         (NP-SBJ (Nr-H Nhu))
+                         (VP (R không) (Vv-H rẽ)
+                              (VP (Vv-H về)
+                                   (NP (Nn-H nhà))))))))
+     (PU .))
+</s>
+<s>
+(S 
+     (NP-SBJ 
+          (Nn_swsp (Nc-H Người) (Nn đàn_ông))
+          (Pd đó))
+     (VP 
+          (VP 
+               (ADJP (Aa-H bất_ngờ))
+               (Vv-H phóng)
+               (ADJP (ID-H như_ma_đuổi)))
+          (PU ,)
+          (VP (Vv-H len_lách)
+               (PP (Cs-H vào)
+                    (NP 
+                         (NP (Nq các) (Nn-H ngõ) (Aa tắt))
+                         (PU ,)
+                         (NP (Nn-H đường) (Aa ngang))))
+               (PP-MNR (Cs-H với)
+                    (NP (Nn-H thái_độ)
+                         (ADJP 
+                              (Aa_w (Sv bất) (Aa-H thường)))))))
+     (PU .))
+</s>
+<s>
+(S 
+     (NP-SBJ (Nn-H Nơi)
+          (SBAR (Cs *0*)
+               (S 
+                    (NP-SBJ (Nr-H Nhu))
+                    (VP (Vv-H dừng)
+                         (NP-DOB (Nn-H xe))))))
+     (VP (Vc-H là)
+          (NP-CMP (Num một) (Nn-H quán) (Nn nước)
+               (ADJP-LOC (Aa-H gần)
+                    (NP (Nn-H công_viên) (Nr Lênin)))))
+     (PU .))
+</s>
+<s>
+(S 
+     (NP-TMP 
+          (QP (R Chừng) (Num-H 5))
+          (Nu-H phút))
+     (Cp thì)
+     (NP-SBJ (Num một)
+          (Nn_swsp (Nc-H cô) (Nn gái))
+          (ADJP (Aa-H trẻ))
+          (PU ,)
+          (VP-PRN 
+               (VP (Vv-H ăn_mặc)
+                    (ADJP (Aa-H gọn_gàng)))
+               (PU ,)
+               (VP (Vv-H bịt)
+                    (NP (Nn-H khăn)))
+               (PU ,)
+               (VP (Vv-H đội)
+                    (NP (Nn-H mũ)))))
+     (VP 
+          (VP (Vv-H đi)
+               (VP (Vv-H vượt)
+                    (VP (Vv-H lên)
+                         (NP (Nn-H phía) (Nn trước)))))
+          (Cp và)
+          (VP (R hơi) (Vv-H ngoái)
+               (NP (Nn-H đầu))
+               (VP (Vv-H ra_hiệu)
+                    (PP (Cs-H với)
+                         (NP (Nr-H Nhu))))))
+     (PU .))
+</s>
+<s>
+(S 
+     (S 
+          (NP-SBJ (Nr-H Nhu))
+          (VP (Vv-H phóng)
+               (NP-DOB (Nn-H xe))
+               (R lên)))
+     (PU ,)
+     (Cp rồi)
+     (S 
+          (NP-SBJ (Nw cả) (Num-H hai))
+          (VP 
+               (ADJP (Aa-H hối_hả))
+               (Vv-H tiến)
+               (VP (Vv-H ra)
+                    (NP (Nn-H ngoại_ô)))))
+     (PU .))
+</s>
+<s>
+(S 
+     (S 
+          (NP-SBJ (NONE *-1))
+          (VP (Vv-H Đánh)
+               (NP (Nn-H xe)
+                    (VP (Vv-H chạy)
+                         (ADJP (Aa-H thẳng))
+                         (PP (Cs-H vào)
+                              (NP (Nn-H nhà_nghỉ)))
+                         (NP (Nn-H một_cách) (Aa thành_thạo))))))
+     (Cp và)
+     (S 
+          (NP-SBJ-1 (Pp-H họ))
+          (VP (Vv-H dẫn)
+               (NP (Nn-H nhau))
+               (VP (Vv-H lên)
+                    (NP (Nn-H cầu_thang)))))
+     (PU .))
+</s>
+<s>
+(S 
+     (NP-SBJ (Nr-H Toàn))
+     (VP (R lập_tức) (Vv-H chạy)
+          (VP (Vv-H vào)
+               (VP (Vv-H đăng_ký)
+                    (VP (Vv-H thuê)
+                         (NP (Nn-H phòng))))))
+     (PU .))
+</s>
+<s>
+(S 
+     (NP-SBJ (Pp-H Anh))
+     (VP (Vv-H phát_hiện)
+          (SBAR-CMP (Cs *0*) (PU :)
+               (S 
+                    (NP-SBJ 
+                         (Nn_swsp (Nc-H chiếc) (Nn chìa_khoá))
+                         (SBAR (Cs *0*)
+                              (S 
+                                   (NP-SBJ 
+                                        (Nn_swsp (Nc-H cô) (Nn gái)))
+                                   (VP (Vv-H cầm)
+                                        (VP (Vv-H theo))))))
+                    (VP (Vv-H mang)
+                         (NP-CMP (Nn-H số) (Num 205))))))
+     (PU .))
+</s>
+<s>
+(SPL-HLN 
+     (NP (Nn-H Lửa)
+          (NP (Nn-H hận)))
+     (PU .))
+</s>
+<s>
+(S 
+     (ADJP-ADV (Aa-H Bình_thường))
+     (Cp thì)
+     (NP-SBJ (Nq các) (Nn-H thám_tử))
+     (VP (Vv-H tránh)
+          (VP-CMP (Vv-H thông_báo) (R tức_thời)
+               (NP-DOB (Nn-H địa_chỉ)
+                    (PP (Cs-H của)
+                         (NP (Nn-H đối_tượng))))
+               (PP-IOB (Cs-H cho)
+                    (NP (Nn-H thân_chủ)))
+               (PP (Cs-H trong)
+                    (NP (Nq những)
+                         (Nn_swsp (Ncs-H vụ) (Vv ngoại_tình))
+                         (PP (Cs-H như)
+                              (NP (Pp-H thế) (Pd này)))))))
+     (PU .))
+</s>
+<s>
+(S (Cp Nhưng) (Cp vì)
+     (S-PRP 
+          (NP-SBJ-1 (Nr-H Toàn))
+          (VP (Vv-H tin)
+               (SBAR-CMP (Cs *0*)
+                    (S 
+                         (NP-SBJ (Nr-H Thư))
+                         (VP (Vc-H là)
+                              (NP-CMP (Nn-H người)
+                                   (UCP 
+                                        (ADJP (Aa-H dịu_hiền))
+                                        (PU ,)
+                                        (VP (Ve-H có)
+                                             (NP (Nn-H văn_hoá)))
+                                        (Cp và)
+                                        (ADJP (Aa-H đủ)
+                                             (NP (Nn-H bản_lĩnh)
+                                                  (VP (Vv-H kiểm_soát)
+                                                       (NP (Nn-H hành_vi) (PU ,) (Nn-H cảm_xúc)
+                                                            (PP (Cs-H của)
+                                                                 (NP (Pp-H mình))))))))))))))
+     (Cp nên)
+     (S 
+          (NP-SBJ (NONE *-1))
+          (VP (R đã) (Vv-H báo)
+               (PP-IOB (Cs-H cho)
+                    (NP (Nr-H Thư)))))
+     (PU .))
+</s>
+<s>
+(S 
+     (NP-SBJ-1 (Nr-H Thư))
+     (UCP-PRD 
+          (ADJP (R hơi) (Aa-H hụt)
+               (NP (Nn-H giọng)))
+          (Cp nhưng)
+          (VP (R vẫn)
+               (ADJP (Aa-H ôn_tồn))
+               (Vv-H hứa)
+               (PP (Cs-H với)
+                    (NP (Nr-H Toàn)))
+               (SBAR-CMP (Cs *0*)
+                    (S 
+                         (NP-SBJ (NONE *-1))
+                         (UCP-PRD 
+                              (VP 
+                                   (RP (R sẽ) (R-H không))
+                                   (Vv-H đến)
+                                   (NP (Nn-H nhà_nghỉ) (Pd đó)))
+                              (Cp và)
+                              (ADJP 
+                                   (RP (R cũng) (R-H không))
+                                   (Aa-H nặng_lời)
+                                   (PP (Cs-H với)
+                                        (NP (Nn-H chồng)))))))))
+     (PU .))
+</s>
+<s>
+(S 
+     (SPL-CNC 
+          (NP (Pp-H Thế)))
+     (Cp nhưng)
+     (PU ,)
+     (S 
+          (NP-SBJ (Nr-H Toàn))
+          (VP 
+               (ADJP (R chưa) (Aa-H kịp))
+               (Vv-H quay)
+               (NP (Nn-H xe))
+               (VP (Vv-H về))))
+     (Cp thì)
+     (S 
+          (NP-SBJ (Nr-H Thư))
+          (ADJP-PRD (R đã) (Aa-H có_mặt)
+               (PP (Cs-H ở)
+                    (NP (Nn-H cửa) (Nn nhà_nghỉ)))))
+     (PU .))
+</s>
+<s>
+(S 
+     (NP-SBJ (Pp-H Chị))
+     (VP 
+          (VP (Vv-H đi) (R một_mình))
+          (Cp và)
+          (VP (Vv-H tiến)
+               (ADJP (Aa-H thẳng))
+               (VP (Vv-H vào)
+                    (NP (Nn-H lễ_tân))
+                    (VP (Vv-H xin)
+                         (VP (Vv-H thuê)
+                              (NP (Nn-H phòng)))))))
+     (PU .))
+</s>
+<s>
+(S 
+     (NP-SBJ (Nr-H Thư))
+     (VP (Vv-H lên)
+          (NP (Nn-H phòng) (Num 205))
+          (VP 
+               (VP (Vv-H gõ_cửa))
+               (Cp và)
+               (VP (Vv-H nói)
+                    (VP (Vv-H vọng))
+                    (PP (Cs-H vào))
+                    (PP (Cs-H với)
+                         (NP (Nr-H Nhu)))
+                    (SBAR-CMP (Cs là)
+                         (S 
+                              (NP-SBJ (Nn-H vợ))
+                              (VP (Vv-H đến)))))))
+     (PU .))
+</s>
+<s>
+(S 
+     (NP-SBJ 
+          (Nn_swsp (Nc-H Cô) (Nn gái)))
+     (VP (Vv-H lao)
+          (VP (Vv-H vào)
+               (VP (Vv-H trốn)
+                    (PP (Cs-H trong)
+                         (NP (Nn-H buồng) (Vv tắm))))))
+     (PU .))
+</s>
+<s>
+(S 
+     (NP-SBJ (Nr-H Nhu))
+     (XP-MNR (ID-H mặt_cắt_không_còn_hạt_máu))
+     (VP (Vv-H đổ)
+          (VP (Vv-H gục)
+               (NP (Nw cả) (Nn-H thân_xác)
+                    (ADJP (Aa-H to_lớn)))
+               (VP (Vv-H xuống)
+                    (NP (Nn-H chân) (Nn vợ)))))
+     (PU .))
+</s>
+<s>
+(S 
+     (NP-SBJ (Nr-H Thư))
+     (VP 
+          (VP (Vv-H kéo)
+               (NP-DOB (Nn-H ghế)))
+          (VP (Vv-H ngồi)
+               (ADJP (Aa-H điềm_tĩnh)
+                    (ADJP (M đến) (Aa-H lạnh)
+                         (NP (Nn-H người))))))
+     (PU .))
+</s>
+<s>
+(S 
+     (S 
+          (NP-SBJ (Nn-H Mắt)
+               (NP (Nr-H Thư)))
+          (ADJP-PRD (Aa-H sắc) (Aa-H buốt)
+               (PP (Cs-H như)
+                    (NP (Nn-H dao)))))
+     (PU ,)
+     (S 
+          (NP-SBJ (Nn-H mặt))
+          (ADJP-PRD (Aa-H tím) (Aa-H thâm) (R lại)
+               (PP (Cs-H trong)
+                    (NP (Num hai) (Nn-H hàm) (Nn răng)
+                         (VP (Vv-H nghiến)
+                              (ADJP (Aa-H bạnh)
+                                   (NP (Nn-H quai_hàm))))))))
+     (PU .))
+</s>
+<s>
+(S 
+     (NP-SBJ-1 (Ncs-H Cái)
+          (ADJP (Aa-H duyên_dáng) (PU ,) (Aa-H nhu_mì)))
+     (VP 
+          (VP (R bỗng) (Vv-H tiêu_tan))
+          (VP (Vv *P*)
+               (VP-CMP (Vv-H thay)
+                    (NP-DOB (NONE *T*-1))
+                    (PP-MNR (Cs-H bằng)
+                         (NP (Nq những) (Nn-H tiếng) (Vv rít)
+                              (ADJP (Aa-H ghê)
+                                   (PP (Cs-H như)
+                                        (NP (Nn-H rắn)))))))))
+     (PU .))
+</s>
+<s>
+(S 
+     (NP-SBJ (Pp-H Chị))
+     (VP 
+          (VP (Vv-H gọi)
+               (NP-DOB-1 
+                    (Nn_swsp (Nc-H cô) (Nn gái))
+                    (PP (Cs-H trong)
+                         (NP (Nn-H buồng) (Vv tắm))))
+               (VP (Vv-H ra)))
+          (PU ,)
+          (VP (Vv-H nói)
+               (SBAR-CMP (Cs *0*)
+                    (S 
+                         (NP-SBJ (NONE *-1))
+                         (VP 
+                              (VP (Vv-H ăn_mặc)
+                                   (ADJP (Aa-H chỉnh_tề)))
+                              (Cp và)
+                              (VP (Vv-H ngồi)
+                                   (VP (Vv-H xuống)
+                                        (NP (Nn-H cạnh)
+                                             (NP (Nr-H Nhu))))))))))
+     (PU .))
+</s>
+<s>
+(S 
+     (NP-SBJ (Nr-H Thư))
+     (VP (Vv-H yêu_cầu)
+          (SBAR-CMP (Cs *0*)
+               (S 
+                    (NP-SBJ (Num hai) (Nn-H người))
+                    (VP (Vv-H viết)
+                         (NP-DOB (Nn-H giấy)
+                              (VP (Vv-H nhận)
+                                   (NP (Nn-H tội)
+                                        (VP 
+                                             (VP (Vv-H quan_hệ)
+                                                  (ADJP (Aa-H bất_chính)))
+                                             (PU ,)
+                                             (VP (Vv-H vi_phạm)
+                                                  (NP (Nn-H Luật)
+                                                       (NP (Nn-H hôn_nhân) (Nn-H gia_đình))))))))))))
+     (PU .))
+</s>
+<s>
+(S 
+     (NP-SBJ (Pp-H Họ))
+     (VP (Vv-H khai)
+          (SBAR-CMP (Cs *0*) (PU :)
+               (S 
+                    (NP-SBJ 
+                         (Nn_swsp (Nc-H cô) (Nn gái)))
+                    (UCP-PRD 
+                         (NP (Nn-H tên) (Nr Liên))
+                         (PU ,)
+                         (NP (Num 25) (Nn-H tuổi))
+                         (PU ,)
+                         (NP (R chưa) (Nn-H chồng))
+                         (PU ,)
+                         (NP (Nn-H gia_đình)
+                              (PP-LOC (Cs-H ở)
+                                   (NP (Nr-H Hà_Nội))))
+                         (PU ,)
+                         (NP (Nn-H trình_độ) (Nn đại_học))
+                         (PU ,)
+                         (VP (R đang) (Vv-H làm_việc)
+                              (PP (Cs-H tại)
+                                   (NP (Num một) (Nn-H cơ_quan) (Aa hành_chính))))))))
+     (PU .))
+</s>
+<s>
+(S 
+     (NP-SBJ (Pp-H Họ))
+     (UCP-PRD 
+          (VP (R đã) (Vv-H quan_hệ)
+               (PP (Cs-H với)
+                    (NP (Nn-H nhau)))
+               (NP-TMP (Num năm) (Nu-H năm) (Nt nay)))
+          (Cp và)
+          (PP 
+               (ADJP (Aa-H hoàn_toàn))
+               (Cs-H vì)
+               (NP (Nn-H tình_yêu))))
+     (PU .))
+</s>
+<s>
+(S 
+     (NP-SBJ (Nw Cả) (Num-H hai))
+     (VP (Vv-H cam_kết)
+          (VP-CMP (Vv-H chấm_dứt)
+               (NP-DOB (Nn-H quan_hệ))
+               (ADJP (Aa-H vĩnh_viễn))))
+     (PU .))
+</s>
+<s>
+(S 
+     (NP-SBJ (Pp-H Họ))
+     (VP 
+          (ADJP (Aa-H cùng))
+          (Vv-H phải)
+          (VP-CMP (Vv-H ký) (Cp và) (Vv-H điểm_chỉ)
+               (PP (Cs-H vào)
+                    (NP (Nc-H bản)
+                         (VP (Vv-H nhận)
+                              (NP (Nn-H tội)))))))
+     (PU .))
+</s>
+<s>
+(S 
+     (VP-ADV (VA-H Xong)
+          (NP-DOB (Nn-H việc)))
+     (NP-SBJ (Nr-H Thư))
+     (VP (Vv-H đạo_diễn)
+          (SBAR (Cs cho)
+               (S 
+                    (NP-SBJ (Num hai) (Nn-H người))
+                    (VP 
+                         (VP (Vv-H ôm)
+                              (NP (Nn-H nhau))
+                              (ADJP (Aa-H tình_tứ)))
+                         (PU ,)
+                         (VP (Vv-H cúi)
+                              (NP (Nn-H đầu))
+                              (VP (Vv-H nhận)
+                                   (NP (Nn-H tội))))
+                         (Cp và)
+                         (VP 
+                              (ADJP (Aa-H cùng))
+                              (VP 
+                                   (VP (Vv-H ký)
+                                        (NP (Nn-H giấy)))
+                                   (PU ,)
+                                   (VP (Vv-H điểm_chỉ)))))))
+          (PP-PRP (Cs-H để)
+               (S 
+                    (NP-SBJ (Nr-H Thư))
+                    (VP (Vv-H chụp)
+                         (NP-DOB (Nn-H ảnh))))))
+     (PU .))
+</s>
+<s>
+(S 
+     (S 
+          (NP-SBJ (NONE *-1))
+          (VP-MNR 
+               (VP (Vv-H Gấp)
+                    (NP-DOB (Nn-H tờ) (Nn giấy)))
+               (PU ,)
+               (VP (Vv-H cất)
+                    (NP-DOB (Nn-H máy_ảnh)))))
+     (PU ,)
+     (NP-SBJ-1 (Nr-H Thư))
+     (VP 
+          (VP 
+               (ADJP (Aa-H điềm_nhiên))
+               (Vv-H xuống)
+               (NP-CMP (Nn-H lễ_tân))
+               (VP (Vv-H trả)
+                    (NP-DOB (Nn-H tiền))))
+          (Cp và)
+          (VP 
+               (ADJP (Aa-H tươi_cười))
+               (Vv-H nói)
+               (SBAR-CMP (Cs là)
+                    (S 
+                         (NP-SBJ (Nn-H người)
+                              (SBAR (Cs *0*)
+                                   (S 
+                                        (NP-SBJ (Pp-H mình))
+                                        (VP (Vv-H hẹn)))))
+                         (VP (R không) (Vv-H đến) (R được))))))
+     (PU .))
+</s>
+<s>
+(S 
+     (NP-SBJ (Nn-H Thám_tử) (Nr Toàn)
+          (PP (Cs-H ở)
+               (NP (Nn-H phòng)
+                    (NP (Nn-H bên) (Nn cạnh)))))
+     (VP 
+          (VP (Vv-H chứng_kiến)
+               (PP-TMP 
+                    (PP (Cs-H từ)
+                         (NP (Nn-H đầu)))
+                    (PP (Cs-H đến)
+                         (NP (Nn-H cuối)))))
+          (Cp và)
+          (VP (R không_thể) (Vv-H phản_ứng) (M gì)))
+     (PU .))
+</s>
+<s>
+(S (Cp Nhưng)
+     (NP-SBJ (Nw mọi) (Nn-H chuyện))
+     (VP (R không) (Vv-H dừng)
+          (PP (Cs-H ở)
+               (NP (Pd-H đó))))
+     (PU .))
+</s>
+<s>
+(S 
+     (NP-SBJ (Num Một)
+          (Nn_swsp (Nc-H người) (Nn đàn_ông)))
+     (VP (Vv-H đến)
+          (NP-CMP (Nn-H công_ty) (Nn thám_tử))
+          (VP-PRP (Vv-H hỏi)
+               (VP (Vv-H xem)
+                    (ADJP (R có) (Aa-H phải)
+                         (SBAR (Cs *0*)
+                              (S 
+                                   (NP-SBJ (Nn-H vợ)
+                                        (NP (Pp-H mình)))
+                                   (VP (R đã) (Vv-H thuê)
+                                        (NP-DOB (Nn-H công_ty) (Pd này))
+                                        (VP-CMP (Vv-H theo_dõi)
+                                             (NP-DOB (Pp-H ông) (Pp ta))))))
+                         (R không)))))
+     (PU !))
+</s>
+<s>
+(S (Cp Nếu)
+     (SPL-CND 
+          (VP (R không) (Vv *H*)))
+     (Cp thì)
+     (S 
+          (NP-SBJ (Pp-H ông) (Pp ta))
+          (VP (Vv-H thuê)
+               (NP-DOB (Nn-H thám_tử))
+               (VP-CMP (Vv-H theo_dõi)
+                    (NP-DOB (Nn-H vợ)))))
+     (PU .))
+</s>
+<s>
+(S 
+     (NP-PRN (Nn-H Lý_do))
+     (PU :)
+     (NP-SBJ (Nn-H vợ))
+     (VP 
+          (VP (Vv-H biết)
+               (SBAR-CMP (Cs *0*)
+                    (S 
+                         (NP-SBJ (Pp-H ông) (Pp ta))
+                         (VP (Vv-H ngoại_tình)))))
+          (Cp và)
+          (VP (R đang) (Vv-H chuẩn_bị)
+               (NP-DOB (Nn-H kế_hoạch)
+                    (VP (Vv-H trả_thù)
+                         (NP (Nn-H tình_địch)))
+                    (VP (R rất) (Vv-H đáng)
+                         (VP (Vv-H sợ))))))
+     (PU .))
+</s>
+<s>
+(S 
+     (NP-SBJ 
+          (Nn_swsp (Nc-H Người) (Nn đàn_ông))
+          (Pd này))
+     (VP (M chính) (Vc-H là)
+          (NP-CMP (Nr-H Nhu) (PU ,)
+               (NP-PRN (Nn-H chồng)
+                    (NP (Nr-H Thư)))))
+     (PU .))
+</s>
+<s>
+(S 
+     (NP-SBJ (Nr-H Nhu))
+     (VP (Vv-H kể)
+          (SBAR-CMP (Cs *0*) (PU :)
+               (S 
+                    (PP-TMP (Cs-H sau)
+                         (NP (Nn-H sự_cố) (Pd đó)))
+                    (NP-SBJ (Nn-H cuộc_sống)
+                         (NP (Nn-H gia_đình)))
+                    (ADJP-PRD (R vẫn) (Aa-H bình_yên)))))
+     (PU .))
+</s>
+<s>
+(S 
+     (NP-SBJ (Nn-H Câu_chuyện))
+     (VP (R không) (M hề) (Vv-H rò_rỉ)
+          (VP (Vv-H ra)
+               (NP (Nn-H ngoài))))
+     (PU .))
+</s>
+<s>
+(S (Cp Nhưng)
+     (S 
+          (NP-SBJ (Nr-H Thư))
+          (VP (R không_thể) (Vv-H lấy)
+               (RP (R lại) (R-H được))
+               (NP-CMP (Nn-H thăng_bằng))))
+     (Cp và)
+     (S 
+          (NP-SBJ (Nr-H Nhu))
+          (VP (Vv-H biết)
+               (SBAR-CMP (Cs *0*)
+                    (S 
+                         (NP-SBJ (Nn-H vợ)
+                              (NP (Pp-H mình)))
+                         (VP (R đang)
+                              (ADJP (Aa-H âm_thầm))
+                              (Vv-H tìm)
+                              (NP-DOB (Nn-H cách)
+                                   (VP (Vv-H trả_thù)
+                                        (NP (Nr-H Liên)))))))))
+     (PU .))
+</s>
+<s>
+(S 
+     (NP-SBJ (Pp-H Anh) (Pp ta))
+     (VP 
+          (ADJP (Aa-H thật_sự))
+          (Vv-H hoảng_sợ))
+     (PU .))
+</s>
+<s>
+(S (Cp Nhất_là)
+     (NP-SBJ (Nr-H Liên))
+     (VP 
+          (RP (R lại) (R-H sắp))
+          (Vv-H lấy)
+          (NP-CMP (Nn-H chồng)))
+     (PU ...))
+</s>
+<s>
+(S 
+     (NP-SBJ (Nn-H Nguyên_tắc)
+          (PP (Cs-H của)
+               (NP (Nn-H công_ty))))
+     (VP (Vc-H là)
+          (VP-CMP 
+               (VP 
+                    (ADJP (Aa-H tuyệt_đối))
+                    (Vv-H giữ)
+                    (NP-DOB (Nn-H bí_mật))
+                    (PP-IOB (Cs-H cho)
+                         (NP (Nn-H khách_hàng))))
+               (Cp và)
+               (VP 
+                    (NP (R không) (Pp bao_giờ))
+                    (Vv-H chống)
+                    (R lại)
+                    (NP-DOB (Nn-H khách_hàng)))))
+     (PU .))
+</s>
+<s>
+(S (Cp Vì)
+     (SPL-PRP 
+          (NP (Pp-H vậy)))
+     (S 
+          (NP-SBJ (Nr-H Toàn))
+          (VP 
+               (VP 
+                    (RP (R cũng) (R-H không))
+                    (Vv-H xác_nhận)
+                    (SBAR-CMP (Cs *0*)
+                         (S 
+                              (NP-SBJ (Nr-H Thư))
+                              (VP (Vv-H đến)
+                                   (VP-PRP (Vv-H thuê)
+                                        (NP-DOB (Nn-H thám_tử)))))))
+               (Cp và)
+               (VP 
+                    (RP (R cũng) (R-H không))
+                    (Vv-H ký)
+                    (NP-DOB (Nn-H hợp_đồng)
+                         (PP (Cs-H với)
+                              (NP (Nr-H Nhu)))))))
+     (PU .))
+</s>
+<s>
+(S 
+     (NP-SBJ 
+          (Nn_swsp (Ncs-H Cuộc) (Vv thương_thảo)))
+     (VP (Vv-H chấm_dứt))
+     (PU .))
+</s>
+<s>
+(S (Cp Nhưng)
+     (S 
+          (NP-SBJ (NONE *-1))
+          (VP (Vc-H là)
+               (NP-CMP (Nn-H người)
+                    (VP 
+                         (ADJP (Aa-H trực_tiếp))
+                         (Vv-H nhìn_thấy)
+                         (NP-DOB (Nn-H bản_chất)
+                              (VP (R không) (Vv-H che_giấu))
+                              (PP (Cs-H của)
+                                   (NP (Nr-H Thư))))))))
+     (PU ,)
+     (S 
+          (NP-SBJ-1 (Nr-H Toàn))
+          (VP 
+               (VP (R luôn) (Vv-H nghi_ngại)
+                    (NP 
+                         (Nn_swsp (Ncs-H sự) (Aa ghê_gớm))
+                         (PP (Cs-H của)
+                              (NP (Nn-H con_người) (Pd này)))))
+               (Cp và)
+               (VP (Vv-H cảm_thấy)
+                    (SBAR-CMP (Cs *0*)
+                         (SPL 
+                              (PP-ADV (Cs-H trong)
+                                   (NP 
+                                        (Nn_swsp (Nc-H ánh) (Nn mắt))
+                                        (NP 
+                                             (Nn_swsp (Nc-H người) (Nn đàn_bà))
+                                             (Pd này))))
+                              (VP (R đang) (Vv-H nung_nấu)
+                                   (NP-DOB (Num một)
+                                        (Nn_swsp (Ncs-H sự) (Vv thù_hận))
+                                        (ADJP (R rất) (Aa-H hung_gở)))))))))
+     (PU .))
+</s>
+<s>
+(S (Cp Nếu)
+     (SPL-CND 
+          (VP (Ve-H có)
+               (S-CMP 
+                    (NP-SBJ (Num một) (Nn-H hậu_quả)
+                         (ADJP (R không) (Aa-H lành))
+                         (Pd nào)
+                         (Pd đó))
+                    (VP (Vv-H xảy_ra)))))
+     (PU ,)
+     (S 
+          (NP-SBJ (Nr-H Toàn))
+          (VP (R sẽ) (Vv-H thấy)
+               (SBAR-CMP (Cs *0*)
+                    (S 
+                         (NP-SBJ (Pp-H mình))
+                         (VP (Ve-H có)
+                              (NP-CMP (Nn-H lỗi)
+                                   (SBAR-PRP (Cs bởi)
+                                        (S 
+                                             (NP-SBJ (Pp-H anh))
+                                             (VP (R đã) (Vv-H cho)
+                                                  (NP-IOB (Nr-H Thư))
+                                                  (VP-CMP (Vv-H biết)
+                                                       (NP-CMP (Nn-H địa_chỉ)
+                                                            (PP (Cs-H của)
+                                                                 (NP (Nn-H nhà_nghỉ)
+                                                                      (SBAR (Cs mà)
+                                                                           (S 
+                                                                                (NP-SBJ (Nr-H Nhu) (PU -) (Nr-H Liên))
+                                                                                (VP (R đang) (Vv-H ở)))))))))))))))))
+     (PU .))
+</s>
+<s>
+(S 
+     (S 
+          (NP-SBJ (Pp-H Anh))
+          (VP (R đã) (Vv-H để)
+               (SBAR-CMP (Cs *0*)
+                    (S 
+                         (NP-SBJ (Nr-H Thư))
+                         (VP (Vv-H phải)
+                              (VP-CMP 
+                                   (ADJP (Aa-H tận_mắt))
+                                   (Vv-H chứng_kiến)
+                                   (NP-CMP 
+                                        (Nn_swsp (Ncs-H sự) (Vv phản_bội)))))))))
+     (Cp và)
+     (S 
+          (ADJP-ADV (Aa-H đặc_biệt))
+          (NP-SBJ (Pp-H chị) (Pp ta))
+          (VP (Ve-H có)
+               (PP (Cs-H trong)
+                    (NP (Nn-H tay)))
+               (NP-CMP (Nn-H tờ) (Nn-H giấy)
+                    (VP (Vv-H nhận)
+                         (NP (Nn-H tội) (Vv ngoại_tình)
+                              (PP (Cs-H của)
+                                   (NP (Num hai) (Nn-H người))))))))
+     (PU ...))
+</s>
+<s>
+(S 
+     (NP-SBJ (Nn-H Công_ty) (Nn thám_tử))
+     (VP (Vv-H chấp_nhận)
+          (VP-CMP (Vv-H cho)
+               (NP-IOB (Nr-H Toàn))
+               (VP-CMP 
+                    (ADJP (Aa-H đơn_phương))
+                    (Vv-H theo_dõi)
+                    (NP-DOB (Nr-H Thư))
+                    (PP-PRP (Cs-H để)
+                         (VP (Vv-H hoá_giải)
+                              (NP-DOB (Nn-H nguy_cơ)
+                                   (ADJP (Aa-H xấu))))))))
+     (PU .))
+</s>
+<s>
+(S 
+     (NP-TMP (Nt-H Ngày_mai))
+     (NP-SBJ (Nr-H Toàn))
+     (VP (Vv-H phải)
+          (VP-CMP (Vc-H là)
+               (NP-CMP (Nn-H người)
+                    (VP (Vv-H tháo)
+                         (NP (Nn-H ngòi) (Vv nổ)
+                              (PP (Cs-H của)
+                                   (NP 
+                                        (Nn_swsp (Nc-H quả) (Nn bom))
+                                        (Pd này))))
+                         (PP-PRP (M sao) (Cs-H cho)
+                              (S 
+                                   (NP-SBJ 
+                                        (QP (R không) (Num-H một))
+                                        (Pp-H ai))
+                                   (VP (Vv-H phải)
+                                        (VP-CMP (Vv-H mang)
+                                             (NP-CMP (Nn-H thương_tích))))))))))
+     (PU .))
+</s>
