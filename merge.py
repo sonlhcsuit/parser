@@ -24,7 +24,7 @@ def add_bracket_(filepath):
 
 if __name__ == '__main__':
     parser = ArgumentParser()
-    parser.add_argument('-dp','--data_path',required=True,help='Path to dataset directory, for merge only')
+    parser.add_argument('-dp','--data_path',required=True,help='Path to dataset1 directory, for merge only')
     parser.add_argument('-op','--output_path',required=True,help='Path to output file, file will be created')
     args = parser.parse_args()
     args = vars(args)
