@@ -19,9 +19,9 @@ if __name__ == '__main__':
     -treebank SINGLEFILE".format(dataset=args['datafile'],grammar=args['grammar'])
     print(cmd)
     os.system(cmd)
-    # cmd = '\
-    # java -cp berkeleyparser/BerkeleyParser-1.7.jar \
-    # edu/berkeley/nlp/PCFGLA/WriteGrammarToTextFile \
-    # {gr} {gr}.txt'.format(gr=args['grammar'])
-    # print(cmd)
-    # os.system(cmd)
+    cmd = '\
+    java -cp berkeleyparser/BerkeleyParser-1.5.jar \
+    edu/berkeley/nlp/PCFGLA/WriteGrammarToTextFile \
+    {gr} {gr}.txt'.format(gr=args['grammar'])
+    print(cmd)
+    os.system(cmd)
