@@ -64,7 +64,7 @@ if __name__ == '__main__':
             fs1.write('\n')
             tree = tree.replace('\n','')
             tree = re.sub('\s+',' ',tree.replace('\n',' '))
-            print(tree)
+            # print(tree)
             fs2.write('( {} )'.format(tree))
             fs2.write('\n')
             # break
