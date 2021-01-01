@@ -37,6 +37,8 @@ if __name__ == '__main__':
     # merge raw & merge goal
     goals = getfile(tp,'.prd')
     goals = sorted(goals)
+    os.system('mkdir -p {}'.format(os.path.join(rp,'raw.mrg')))
+    os.system('rm -rf {}/'.format(os.path.join(rp,'raw.mrg')))
     with open(os.path.join(rp,'raw.mrg'),'w') as f:
         for goal in goals:
             # print(goal)
