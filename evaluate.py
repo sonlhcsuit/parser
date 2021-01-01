@@ -75,5 +75,5 @@ if __name__ == '__main__':
     cmd = 'java -jar berkeleyparser/BerkeleyParser-1.7.jar \
     -gr {} < {} >> {}'.format(gp,rp+'/raw.mrg',os.path.join(rp,'predicted.mrg'))
     print(cmd)
-    # os.system(cmd)
+    os.system(cmd)
     print('Predict Done')
