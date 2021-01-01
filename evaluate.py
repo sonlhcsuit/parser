@@ -34,28 +34,38 @@ if __name__ == '__main__':
     gp = os.path.join(os.getcwd(),args['grammar'])
     rp = os.path.join(os.getcwd(),args['result'])
 
-    # merge raw & merge goal
+    # Select all .prd file
     goals = getfile(tp,'.prd')
     goals = sorted(goals)
+    # Create files
     os.system('mkdir -p {}'.format(os.path.join(rp,'raw.mrg')))
     os.system('rm -rf {}/'.format(os.path.join(rp,'raw.mrg')))
-    with open(os.path.join(rp,'raw.mrg'),'w') as f:
-        for goal in goals:
-            # print(goal)
-            fs = open(os.path.join(tp,goal),'r')
-            lines = fs.readlines()
-            lines = ''.join(lines)
-            trees = re.findall('(?<=<s>).+?(?=<\/s>)', lines, re.I | re.S)
-            for tree in trees:
-                words = re.findall('(?<=\()[^\(]*?(?=\))',tree,re.I|re.S)
-                sentences = []
-                for word in words:
-                    label,ct = word.split(' ')
-                    if label != 'NONE' and '*' not in ct:
-                        sentences.append(ct.replace('_',' '))
-                sentence = ' '.join(sentences)
-                f.write(sentence)
-                f.write('\n')
+    os.system('mkdir -p {}'.format(os.path.join(rp, 'goal.mrg')))
+    os.system('rm -rf {}/'.format(os.path.join(rp, 'goal.mrg')))
+
+    fs1 = open(os.path.join(rp,'raw.mrg'),'w')
+    fs2 = open(os.path.join(rp,'goal.mrg'),'w')
+
+    for goal in goals:
+        # print(goal)
+        fs = open(os.path.join(tp,goal),'r')
+        lines = fs.readlines()
+        lines = ''.join(lines)
+        trees = re.findall('(?<=<s>).+?(?=<\/s>)', lines, re.I | re.S)
+        for tree in trees:
+            words = re.findall('(?<=\()[^\(]*?(?=\))',tree,re.I|re.S)
+            sentences = []
+            for word in words:
+                label,ct = word.split(' ')
+                if label != 'NONE' and '*' not in ct:
+                    sentences.append(ct.replace('_',' '))
+            sentence = ' '.join(sentences)
+            fs1.write(sentence)
+            fs1.write('\n')
+            fs2.write('( {} )'.format(re.sub('\s+',' ',tree.strip())))
+            fs2.write('\n')
+            # break
+        # break
 
     cmd = 'python3 merge.py -dp {} -op {}'.format(tp,os.path.join(rp,'goal.mrg'))
     print(cmd)
