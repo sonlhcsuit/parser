@@ -7,7 +7,7 @@ def getfile(datapath,etx):
     return files
 def add_bracket_(filepath):
     fs = open(filepath,'r')
-    print(filepath)
+    # print(filepath)
     data = fs.readlines()
     fs.close()
     data = ''.join(data)
@@ -41,7 +41,7 @@ if __name__ == '__main__':
     except OSError:
         print('Some Bug')
     files = getfile(datapath=dp,etx='.prd')
-
+    files = sorted(files)
     for i,file in enumerate(files):
         processed_file_path = add_bracket_(os.path.join(dp,file))
         files[i] = processed_file_path

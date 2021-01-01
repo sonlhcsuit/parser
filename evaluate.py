@@ -1,0 +1,66 @@
+from argparse import ArgumentParser
+import os
+import re
+def getfile(datapath,etx):
+    files = os.listdir(datapath)
+    files = list(filter(lambda x:etx in x,files))
+    return files
+def add_bracket_(filepath):
+    fs = open(filepath,'r')
+    print(filepath)
+    data = fs.readlines()
+    fs.close()
+    data = ''.join(data)
+
+    out = []
+    for sentence in sentences:
+        out.append("({})".format(sentence.strip()))
+
+    temp_path = os.path.join(os.getcwd(),'temp',"{}.temp".format(filepath.split('/')[-1]))
+    fs = open(temp_path,'w')
+    fs.write('\n'.join(out))
+    fs.close()
+    return temp_path
+
+if __name__ == '__main__':
+    parser = ArgumentParser()
+    parser.add_argument('-td','--test_path',required=True,help='Path to test directory')
+    parser.add_argument('-g','--grammar',required=True,help='Path to output grammar file (model)')
+    parser.add_argument('-r','--result',required=True,help='Path to result directory, will be created')
+
+    args = parser.parse_args()
+    args = vars(args)
+    tp = os.path.join(os.getcwd(),args['test_path'])
+    gp = os.path.join(os.getcwd(),args['grammar'])
+    rp = os.path.join(os.getcwd(),args['result'])
+
+    # merge raw & merge goal
+    goals = getfile(tp,'.prd')
+    goals = sorted(goals)
+    with open(os.path.join(rp,'raw.mrg'),'w') as f:
+        for goal in goals:
+            # print(goal)
+            fs = open(os.path.join(tp,goal),'r')
+            lines = fs.readlines()
+            lines = ''.join(lines)
+            trees = re.findall('(?<=<s>).+?(?=<\/s>)', lines, re.I | re.S)
+            for tree in trees:
+                words = re.findall('(?<=\()[^\(]*?(?=\))',tree,re.I|re.S)
+                sentences = []
+                for word in words:
+                    label,ct = word.split(' ')
+                    if label != 'NONE' and '*' not in ct:
+                        sentences.append(ct.replace('_',' '))
+                sentence = ' '.join(sentences)
+                f.write(sentence)
+                f.write('\n')
+
+    cmd = 'python3 merge.py -dp {} -op {}'.format(tp,os.path.join(rp,'goal.mrg'))
+    print(cmd)
+    os.system(cmd)
+    # Evaluate
+    cmd = 'java -jar berkeleyparser/BerkeleyParser-1.7.jar \
+    -gr {} < {} >> {}'.format(gp,rp+'/raw.mrg',os.path.join(rp,'predicted.mrg'))
+    print(cmd)
+    os.system(cmd)
+    print('Predict Done')

@@ -8,3 +8,5 @@ python3 merge.py -dp sample/ -op merged_sample.mrg
 ```shell script
 python3 train.py -d merged_sample.mrg -g grs/
 ```
+Requirement
+- PYEVALB==0.1.3
