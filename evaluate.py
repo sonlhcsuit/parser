@@ -62,17 +62,18 @@ if __name__ == '__main__':
             sentence = ' '.join(sentences)
             fs1.write(sentence)
             fs1.write('\n')
-            fs2.write('( {} )'.format(re.sub('\s+',' ',tree.strip())))
+            tree = tree.replace('\n','')
+            tree = re.sub('\s+',' ',tree.replace('\n',' '))
+            print(tree)
+            fs2.write('( {} )'.format(tree))
             fs2.write('\n')
             # break
         # break
-
-    cmd = 'python3 merge.py -dp {} -op {}'.format(tp,os.path.join(rp,'goal.mrg'))
-    print(cmd)
-    os.system(cmd)
+    fs1.close()
+    fs2.close()
     # Evaluate
     cmd = 'java -jar berkeleyparser/BerkeleyParser-1.7.jar \
     -gr {} < {} >> {}'.format(gp,rp+'/raw.mrg',os.path.join(rp,'predicted.mrg'))
     print(cmd)
-    os.system(cmd)
+    # os.system(cmd)
     print('Predict Done')
